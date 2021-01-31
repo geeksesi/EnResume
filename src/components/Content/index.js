@@ -13,13 +13,13 @@ export default () => {
             <Row className="about">
                 <div>
                     <Row>
-                        <h2>معرفی</h2>
+                        <h2>About</h2>
                     </Row>
                     <Row>
                         <p>
-                            دانشجوی رشته مهندسی کامپیوتر، برنامه‌نویس back-end، علاقمند به کار گروهی
-                            و چالش‌های مربوط به شبکه، متمرکز بر php، آشنا به nodeJs و برنامه نویسی
-                            front-end، طرفدار نرم افزار آزاد و عضو کوچکی از این جامعه هستم.
+                            Computer Engineering student, BackEnd Developer focused in PHP and
+                            Nodejs, intrested in Rust and low level programming and have a lot of
+                            hope in FreeSoftware and a little user of OpenSource community.
                         </p>
                     </Row>
                 </div>

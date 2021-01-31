@@ -5,9 +5,9 @@ import "./styles.css";
 export default () => {
     return (
         <div className="Education">
-            <Descriptions title="تحصیلات" column={1} layout="vertical">
-                <Descriptions.Item label="کارشناسی مهندسی کامپیوتر">
-                    دانشگاه آزاد اسلامی واحد قم (از مهر 97)
+            <Descriptions title="Education" column={1} layout="vertical">
+                <Descriptions.Item label="Computer enginierring">
+                    Islamic azad university at Qom,Iran (From 2019)
                 </Descriptions.Item>
             </Descriptions>
         </div>

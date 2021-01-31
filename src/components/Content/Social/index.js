@@ -5,7 +5,7 @@ import "./styles.css";
 export default () => {
     return (
         <div className="Social">
-            <Descriptions title="شبکه‌های اجتماعی" column={6}>
+            <Descriptions title="Social media" column={6}>
                 <Descriptions.Item>
                     <a href="https://twitter.com/geeksesi">
                         <i class="fa fa-twitter"></i>

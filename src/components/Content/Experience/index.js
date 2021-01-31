@@ -5,28 +5,28 @@ export default () => {
     return (
         <div className="Experience">
             <Row>
-                <h3>خلاصه فعالیت‌ها</h3>
+                <h3>Activities</h3>
             </Row>
 
             <>
                 <Row>
-                    <h4 className="Year">1399</h4>
+                    <h4 className="Year">2020</h4>
                     <h4 className="Title">
                         <a rel="noopener noreferrer" target="_blank" href="https://olivecademy.com">
-                            اکادمی زیتون‌سبز
+                            Team Green Olive{" "}
                         </a>
                     </h4>
                 </Row>
                 <Row>
                     <p>
-                        زنده کردن پروژه نسبتا قدیمی آکادمی و راه انداختن چرخه توسعه دوباره این
+                        make alive an old project
                         <Row className="sub-tech">
-                            <small>داکرایز پروژه و ساخت محیط توسعه برای لاراول 5.8, nodejs 8</small>
+                            <small>Dockerize with laravel 5.8 and node 8</small>
                         </Row>
-                        سرویس. برخی فعالیت های انجام شده :
+                        new features
                         <ul>
                             <li>
-                                <a>فایل سیستم</a>
+                                <a>File stream system</a>
                                 <Row className="sub-tech">
                                     <small>nodejs</small>
                                     <small>Docker</small>
@@ -34,14 +34,14 @@ export default () => {
                                 </Row>
                             </li>
                             <li>
-                                <a>داشبورد مدیریت و اساتید</a>
+                                <a>Teachers and Admin dashboard</a>
                                 <Row className="sub-tech">
                                     <small>Laravel</small>
                                     <small>React</small>
                                 </Row>
                             </li>
                             <li>
-                                <a>بخش نظرات سایت</a>
+                                <a>Comment system</a>
                                 <Row className="sub-tech">
                                     <small>Laravel</small>
                                     <small>Html & css</small>
@@ -54,26 +54,27 @@ export default () => {
 
             <>
                 <Row>
-                    <h4 className="Year">1399</h4>
+                    <h4 className="Year">2020</h4>
                     <h4 className="Title">
                         <a rel="noopener noreferrer" target="_blank" href="https://payzos.io">
-                            سرویس پرداخت Payzos
+                            Payzos Payment service for Tezos network
                         </a>
                     </h4>
                 </Row>
                 <Row>
-                    <h5 className="JobTitle">مدیرفنی و برنامه‌نویس بک‌اند</h5>
+                    <h5 className="JobTitle">CTO and BackEnd Developer</h5>
                 </Row>
                 <Row>
                     <p>
                         <a rel="noopener noreferrer" target="_blank" href="https://payzos.io">
                             Payzos
                         </a>{" "}
-                        سرویس درگاه‌پرداختی آزاد و متن‌باز برای شبکه Tezos است و برای دارندگان
-                        فروشگاه های مجازی امکان دریافت وجه از طریق این رمزارز را فراهم می کند.
+                        Tezos is a block chain network (with XTZ currency). this service make an
+                        ability to shop owner customers to buy stuff with this currency.
                     </p>
                     <p>
-                        وظیفه اصلی این سرویس ارائه خدمات پرداخت برای این فروشگاه‌سازهاست: <br />
+                        Payzos has some extentions for these shop maker software
+                        <br />
                         <ul>
                             <li>
                                 <a
@@ -133,7 +134,7 @@ export default () => {
                 </Row>
                 <Row>
                     <p>
-                        دیگر مخازن آزاد پروژه
+                        Other OpenSource repositories
                         <br />
                         <ul>
                             <li>
@@ -191,12 +192,12 @@ export default () => {
 
             <>
                 <Row>
-                    <h4 className="Year">1397 - 1398</h4>
-                    <h4 className="Title">فریلنسری</h4>
+                    <h4 className="Year">2018 - 2019</h4>
+                    <h4 className="Title">OpenSource Projects</h4>
                 </Row>
                 <Row>
                     <p>
-                        برخی پروژه‌های اپن‌سورس و آزادی که در انتشار آنها مشارکت داشتم.
+                        Some of OpenSource project wich i had contribute in
                         <br />
                         <ul>
                             <li>
@@ -205,7 +206,7 @@ export default () => {
                                     target="_blank"
                                     href="https://gitlab.com/s-mtz/mangadl_tbot"
                                 >
-                                    ربات تلگرام دانلود مانگا و تبدیل عکس به pdf
+                                    Telegram bot to convert Comic and Manga to PDF
                                 </a>
                                 <Row className="sub-tech">
                                     <small>PHP</small>
@@ -221,7 +222,7 @@ export default () => {
                                     target="_blank"
                                     href="https://github.com/geeksesi/wp-zilon-woocommerce"
                                 >
-                                    افزونه وردپرس درگاه پرداخت زیلون
+                                    Zilon WooCommerce plugin
                                 </a>
                                 <Row className="sub-tech">
                                     <small>Wordpress</small>
@@ -235,7 +236,7 @@ export default () => {
                                     target="_blank"
                                     href="https://github.com/geeksesi/LeaderBoardApi"
                                 >
-                                    سرویس لیدربورد برای بازی های رقابتی{" "}
+                                    Game leaderBoard api system
                                 </a>
                                 <Row className="sub-tech">
                                     <small>MVC</small>
@@ -248,8 +249,8 @@ export default () => {
                                     target="_blank"
                                     href="https://github.com/geeksesi/QIAU-tg-bot-manager"
                                 >
-                                    ربات cli تلگرام مدیریت اعضای کانال و گروه برای دانشگاه آزاد
-                                    اسلامی قم
+                                    Telegram Cli bot to manage student in Covid-19 pandemic for
+                                    Islamic Azad University (computing group)
                                 </a>
                                 <Row className="sub-tech">
                                     <small>Python</small>
@@ -262,7 +263,7 @@ export default () => {
                                     target="_blank"
                                     href="https://gitlab.com/kmtqom/search-book-by-isbn"
                                 >
-                                    جستجوی اطلاعات کتاب براساس شابک کتاب
+                                    Fetch full book detail by ISBN
                                 </a>
                                 <Row className="sub-tech">
                                     <small>ComposerLib</small>
@@ -277,7 +278,7 @@ export default () => {
 
             <>
                 <Row>
-                    <h4 className="Year">1396</h4>
+                    <h4 className="Year">2017</h4>
                     <h4 className="Title">
                         <a href="https://ermile.com/" rel="noopener noreferrer" target="_blank">
                             Ermile
@@ -285,11 +286,11 @@ export default () => {
                     </h4>
                 </Row>
                 <Row>
-                    <h5 className="JobTitle">کارآموز برنامه‌نویسی بک‌اند</h5>
+                    <h5 className="JobTitle">Student Backend Developer</h5>
                 </Row>
                 <Row>
                     <p>
-                        برخی مهارت‌هایی که در این دوره کارآموزی آموختم
+                        something i learend:
                         <br />
                         <ul>
                             <li>
@@ -298,11 +299,11 @@ export default () => {
                                     target="_blank"
                                     href="https://github.com/Ermile/PHP-URL"
                                 >
-                                    ساختار شی‌گرایی و حل مسئله
+                                    OOP structure in PHP and problem solving skill
                                 </a>
                             </li>
-                            <li>آشنایی با poedit و وب سایت های چند‌زبانه</li>
-                            <li>آشنایی با وب‌سرویس nginx و نگهداری و کانفیگ سرور </li>
+                            <li>Multi languages sites with PoEdit</li>
+                            <li>Basic DevOps (Nginx and Linux server configuration)</li>
                         </ul>
                     </p>
                 </Row>
